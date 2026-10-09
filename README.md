@@ -39,7 +39,7 @@ Filters: region or country, year, ship mode.
 - [ ] PivotTables and dashboard
 
 ## What is in this repository
-- `docs/`: cleaning log and screenshots of Power Query steps
+Files will be added when the Excel part is finished. Until then, this README shows my progress.
 
 ## About me
 I moved from structural steel detailing into supply chain analytics. [LinkedIn](https://www.linkedin.com/in/endala-mohan-3b8515270)
